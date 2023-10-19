@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/andrewformosa/static/css/main.073c9b0a.css",
-    "main.js": "/andrewformosa/static/js/main.08932042.js",
+    "main.css": "/andrewformosa/static/css/main.a7b5dea8.css",
+    "main.js": "/andrewformosa/static/js/main.d7b16f46.js",
     "static/js/787.4a5bab5b.chunk.js": "/andrewformosa/static/js/787.4a5bab5b.chunk.js",
+    "static/media/coder_drawing.png": "/andrewformosa/static/media/coder_drawing.e7ca083459a514df08a9.png",
     "static/media/logo.svg": "/andrewformosa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/andrewformosa/index.html",
-    "main.073c9b0a.css.map": "/andrewformosa/static/css/main.073c9b0a.css.map",
-    "main.08932042.js.map": "/andrewformosa/static/js/main.08932042.js.map",
+    "main.a7b5dea8.css.map": "/andrewformosa/static/css/main.a7b5dea8.css.map",
+    "main.d7b16f46.js.map": "/andrewformosa/static/js/main.d7b16f46.js.map",
     "787.4a5bab5b.chunk.js.map": "/andrewformosa/static/js/787.4a5bab5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.08932042.js"
+    "static/css/main.a7b5dea8.css",
+    "static/js/main.d7b16f46.js"
   ]
 }
